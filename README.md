@@ -1,2 +1,4 @@
 # curly-telegram
-FSDI 107 Competency Report
+To do list created with Node.js 
+
+In current folder, run cmd and run: node server.js 
